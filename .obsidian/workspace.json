@@ -149,6 +149,7 @@
   },
   "active": "81f1ffce7379760a",
   "lastOpenFiles": [
+    "_config.yml",
     "helloworld.html",
     "lib/scripts/tinycolor.js",
     "lib/scripts/graph_view.js",
@@ -159,7 +160,6 @@
     "lib/scripts/webpage.js",
     "lib/scripts",
     "lib/styles/generated-styles.css",
-    "lib/styles/snippets.css",
     "helloWorld.md",
     "2023-11-12.md"
   ]

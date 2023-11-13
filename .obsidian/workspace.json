@@ -4,22 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "44c3d8df90bd9b3d",
+        "id": "e53a2f79ab894dac",
         "type": "tabs",
         "children": [
           {
-            "id": "81f1ffce7379760a",
+            "id": "0aa148cd6f0f7d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "helloWorld.md",
+                "file": "SLAM.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ]
+      },
+      {
+        "id": "44c3d8df90bd9b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d45157ff0210b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLAM by Durrant 2006 Part 2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d10107e9e959e1ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "81f1ffce7379760a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6266d973d7714c80",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "helloWorld.md",
+                "file": "SLAM by Durrant 2006 Part  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "helloWorld.md",
+                "file": "SLAM by Durrant 2006 Part  1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "helloWorld.md"
+                "file": "SLAM by Durrant 2006 Part  1.md"
               }
             }
           }
@@ -147,19 +194,62 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "81f1ffce7379760a",
+  "floating": {
+    "id": "bc5c0b591dc004a7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "82516928eed94f43",
+        "type": "window",
+        "children": [
+          {
+            "id": "a8a7c69378fbfa2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f5ce2c4a16221e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SLAM by Durrant 2006 Part  1.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 915,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7f5ce2c4a16221e0",
   "lastOpenFiles": [
+    "SLAM.md",
+    "Index.md",
+    "Solution to SLAM by M.W.M.G. Dissanayake.md",
+    "Dissan.pdf",
+    "Dissan",
+    "dissa_et_al_ieeetra_2001.pdf",
+    "Solution-SLAM-Monte.pdf",
+    "70.938381.pdf?download=true",
+    "SLAM by Durrant 2006 Part 2.md",
+    "SLAM by Durrant 2006 Part  1.md",
+    "SLAM by Durrant 2006 Part  2.md",
+    "Simultaneous_localization_and_mapping_SLAM_part_II.pdf",
+    "Unconfirmed 526732.crdownload",
+    "stamp.jsp?tp=",
+    "wget-log",
+    "Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf",
     "helloWorld.md",
-    "_config.yml",
-    "helloworld.html",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/graph_view.js",
-    "lib/scripts/graph_wasm.js",
-    "lib/scripts/graph_wasm.wasm",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/generated.js",
-    "lib/scripts/webpage.js",
-    "lib/scripts",
     "2023-11-12.md"
   ]
 }

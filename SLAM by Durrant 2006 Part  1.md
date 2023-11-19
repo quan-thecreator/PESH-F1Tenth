@@ -1,4 +1,4 @@
-[[markdown/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf|text]]
+[[Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf|text]]
 # Notes on the Abstract
 
 ## Citation

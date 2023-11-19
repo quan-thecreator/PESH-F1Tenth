@@ -1,4 +1,4 @@
-[[markdown/Dissan.pdf|text]]
+[[Dissan.pdf|text]]
 # Notes on the Abstract
 
 ## Citation

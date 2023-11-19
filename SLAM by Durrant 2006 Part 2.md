@@ -1,4 +1,4 @@
-[[markdown/Simultaneous_localization_and_mapping_SLAM_part_II.pdf|text]]
+[[Simultaneous_localization_and_mapping_SLAM_part_II.pdf|text]]
 # Notes on the Abstract
 
 ## Citation

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLAM.md",
+                "file": "markdown/Index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLAM by Durrant 2006 Part  1.md",
+                "file": "markdown/SLAM by Durrant 2006 Part  1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLAM by Durrant 2006 Part 2.md",
+                "file": "markdown/SLAM by Durrant 2006 Part 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
                 "mode": "source",
                 "source": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solution to SLAM by M.W.M.G. Dissanayake.md"
+                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md"
               }
             }
           }
@@ -211,20 +211,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "ea80f2524d7cface",
+        "id": "a750b77cbf19d96f",
         "type": "window",
         "children": [
           {
-            "id": "2ef6643ba6592ec2",
+            "id": "93d09337651383d5",
             "type": "tabs",
             "children": [
               {
-                "id": "300bf8c35876ed0f",
+                "id": "e0aa2a27e674d12a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Solution to SLAM by M.W.M.G. Dissanayake.md",
+                    "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -243,24 +243,24 @@
       }
     ]
   },
-  "active": "300bf8c35876ed0f",
+  "active": "e0aa2a27e674d12a",
   "lastOpenFiles": [
-    "SLAM by Durrant 2006 Part 2.md",
-    "SLAM by Durrant 2006 Part  1.md",
-    "SLAM.md",
-    "Index.md",
-    "Solution to SLAM by M.W.M.G. Dissanayake.md",
-    "Dissan.pdf",
+    "markdown/SLAM by Durrant 2006 Part 2.md",
+    "markdown/SLAM by Durrant 2006 Part  1.md",
+    "markdown/SLAM.md",
+    "markdown/Index.md",
+    "markdown/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf",
+    "markdown/dissan.pdf",
+    "markdown/Dissan.pdf",
+    "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
+    "markdown",
     "Dissan",
     "dissa_et_al_ieeetra_2001.pdf",
     "Solution-SLAM-Monte.pdf",
     "70.938381.pdf?download=true",
     "SLAM by Durrant 2006 Part  2.md",
-    "Simultaneous_localization_and_mapping_SLAM_part_II.pdf",
+    "markdown/Simultaneous_localization_and_mapping_SLAM_part_II.pdf",
     "Unconfirmed 526732.crdownload",
-    "stamp.jsp?tp=",
-    "wget-log",
-    "Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf",
     "helloWorld.md",
     "2023-11-12.md"
   ]

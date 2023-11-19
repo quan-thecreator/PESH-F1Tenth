@@ -1,4 +1,5 @@
 That which follows tracks our progress to date
+KB: https://aquamarine-sherbet-e48c91.netlify.app/
 # Meetings
 ## Meeting #1
 Action items:
@@ -10,4 +11,4 @@ Action items:
     - Vote on whether to be a school club or just a private team (If we get school stuff we basically can advertise at school and have in school meetings, but there's a shit ton a bureaucracy involved, especially with *international* travel and funds)
     - Discuss how to split the costs (3k for the car and more for travel, spare parts, etc.), and how much each person will be willing to pay up front
     - Officer positions (optional)
-2 hours time committment expected
+2 hours time commitment expected

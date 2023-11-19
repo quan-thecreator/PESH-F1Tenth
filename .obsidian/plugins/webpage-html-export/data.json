@@ -1,10 +1,10 @@
 {
-  "inlineCSS": true,
-  "inlineJS": true,
-  "inlineImages": true,
+  "inlineCSS": false,
+  "inlineJS": false,
+  "inlineImages": false,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
-  "makeNamesWebStyle": false,
+  "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
   "sidebarsAlwaysCollapsible": false,
   "addFilenameTitle": true,
@@ -18,10 +18,10 @@
   "deleteOldExportedFiles": false,
   "addDarkModeToggle": true,
   "includeOutline": true,
-  "includeGraphView": false,
+  "includeGraphView": true,
   "includeFileTree": true,
-  "exportPreset": "documents",
-  "openAfterExport": true,
+  "exportPreset": "website",
+  "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -31,6 +31,12 @@
   "graphMaxNodeSize": 7,
   "exportPath": "/mnt/knowledge-base",
   "filesToExport": [
-    []
+    [
+      "Index.md",
+      "SLAM.md",
+      "SLAM by Durrant 2006 Part  1.md",
+      "SLAM by Durrant 2006 Part 2.md",
+      "Solution to SLAM by M.W.M.G. Dissanayake.md"
+    ]
   ]
 }

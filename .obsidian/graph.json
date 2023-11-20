@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:quartz/content  ",
+  "search": "path:quartz2/content  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45050811767578125,
+  "scale": 1.5802469135802468,
   "close": false
 }

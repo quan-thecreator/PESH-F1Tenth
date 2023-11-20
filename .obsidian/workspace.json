@@ -6,6 +6,7 @@
       {
         "id": "e53a2f79ab894dac",
         "type": "tabs",
+        "dimension": 46.59832246039143,
         "children": [
           {
             "id": "0aa148cd6f0f7d65",
@@ -13,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown/Index.md",
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -24,60 +25,44 @@
       {
         "id": "44c3d8df90bd9b3d",
         "type": "tabs",
+        "dimension": 53.40167753960857,
         "children": [
-          {
-            "id": "7f5ce2c4a16221e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "markdown/SLAM by Durrant 2006 Part  1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d45157ff0210b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "markdown/SLAM by Durrant 2006 Part 2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d10107e9e959e1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "81f1ffce7379760a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
           {
             "id": "6266d973d7714c80",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "quartz2/content/Competition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ed1df01101c5403",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf"
+              }
+            }
+          },
+          {
+            "id": "f3cfd56d6d0cf4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotic Motion.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md"
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md"
               }
             }
           }
@@ -206,61 +191,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "5942e5e2372ad8d9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a750b77cbf19d96f",
-        "type": "window",
-        "children": [
-          {
-            "id": "93d09337651383d5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e0aa2a27e674d12a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e0aa2a27e674d12a",
+  "active": "0aa148cd6f0f7d65",
   "lastOpenFiles": [
+    "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
+    "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+    "quartz2/content/Images",
+    "quartz2/content/Images/Pasted image 20231120122338.png",
+    "Robotic Motion.md",
+    "quartz2/content/Competition.md",
+    "quartz2/content/PDFs/Simultaneous_localization_and_mapping_SLAM_part_II.pdf",
+    "quartz2/content/PDFs/simultaneous_localization_and_mapping_slam_part_ii.pdf",
+    "quartz2/content/PDFs/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf",
+    "quartz2/content/PDFs/Dissan.pdf",
+    "quartz2/content/PDFs/dissan.pdf",
+    "quartz2/content/simultaneous_localization_and_mapping_slam_part_ii.pdf",
+    "quartz2/content/Simultaneous_localization_and_mapping_SLAM_part_II.pdf",
+    "quartz2/content/dissan.pdf",
     "markdown/SLAM by Durrant 2006 Part 2.md",
     "markdown/SLAM by Durrant 2006 Part  1.md",
     "markdown/SLAM.md",
     "markdown/Index.md",
-    "markdown/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf",
-    "markdown/dissan.pdf",
-    "markdown/Dissan.pdf",
     "markdown/Solution to SLAM by M.W.M.G. Dissanayake.md",
-    "markdown",
-    "Dissan",
-    "dissa_et_al_ieeetra_2001.pdf",
-    "Solution-SLAM-Monte.pdf",
-    "70.938381.pdf?download=true",
     "SLAM by Durrant 2006 Part  2.md",
-    "markdown/Simultaneous_localization_and_mapping_SLAM_part_II.pdf",
-    "Unconfirmed 526732.crdownload",
     "helloWorld.md",
     "2023-11-12.md"
   ]

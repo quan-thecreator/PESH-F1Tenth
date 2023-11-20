@@ -16,7 +16,7 @@ In the image above, the color filled icons represent what the robot perceives us
 
 - $\vec{x_k}$ is the state vector of the robot at time $k$
 - $\vec{u_k}$ is the change vector applied at $k-1$ to change $\vec{x_{k-1}}$ to $\vec{x_k}$
-- $\vec{m_i}$ is a error vector from the estimated to true location of a landmark given landmark of identity $i$, assuming the true location is *time invariant*
+- $\vec{m_i}$ is a offset/erorr vector from the estimated to true location of a landmark given landmark of identity $i$, assuming the true location is *time invariant*
 - $z_{i,k}$ is an observation pertaining to the ==location== **of** the $i^{th}$ landmark at time $k$. When referring to a set or history of such measurements, it is conventional short hand to denote them as $z_k$
 ##### Set definitions
 - $X_{0:k} = {\lbrace x_0,x_1,...,x_k \rbrace}= {\lbrace X_{0:k-1},x_k \rbrace} \rightarrow$  The history of robot locations
@@ -25,7 +25,9 @@ In the image above, the color filled icons represent what the robot perceives us
 - $Z_{0:k} = {\lbrace z_1,z_2,...,z_k \rbrace}= {\lbrace Z_{1:k-1},z_k \rbrace} \rightarrow$  The historical set of all landmark observations
 
 ### Probabilistic SLAM
-
+The probability distribution given time $k$:
+$$P(x_{k},m \vert Z_{0:k},U)$$
+This distribution describes the *joint* end density of the coplanar  measurements of landmark location and vehicle state (losing a dimension or two of vehicle state vector.) Since a vehicle control vector is improbable to be perfectly implemented in a real-world situation, and the change in measurements, a temporally recursive computations desirable. 
 
 ## Citation
 H. Durrant-Whyte and T. Bailey, "Simultaneous localization and mapping: part I," in IEEE Robotics & Automation Magazine, vol. 13, no. 2, pp. 99-110, June 2006, doi: 10.1109/MRA.2006.1638022.

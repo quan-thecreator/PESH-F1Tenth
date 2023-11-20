@@ -13,7 +13,9 @@ Starting with a definition, the Simultaneous Localisation and Mapping (SLAM) pro
 ### The Problem
 ![[Pasted image 20231120122338.png]]
 #### Defining variables
-In the image above, the color filled icons represent what the robot perceives using its sensors or LiDAR instruments, while the icons without a fill represent true vectors and landmarks. Directed triangles represent the path the robot is taking, while all forms of lines represent motion vectors fitting a curve. 
+In the image above, the color filled icons represent what the robot perceives using its sensors or LiDAR instruments, while the icons without a fill represent true vectors and landmarks. Directed triangles represent the path the robot is taking, while all forms of lines represent motion vectors fitting a curve. The indicated variable $k$ represent the time instance at which the labeled vector is being considered. The unexplained variable $i$ is an iterator of the the closest landmark given a $k^{th}$ vector.
+
+- 
 ## Citation
 H. Durrant-Whyte and T. Bailey, "Simultaneous localization and mapping: part I," in IEEE Robotics & Automation Magazine, vol. 13, no. 2, pp. 99-110, June 2006, doi: 10.1109/MRA.2006.1638022.
 

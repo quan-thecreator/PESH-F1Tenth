@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+                "file": "quartz2/content/Index.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+                "file": "quartz2/content/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+                "file": "quartz2/content/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md"
+                "file": "quartz2/content/Index.md"
               }
             }
           }
@@ -167,8 +167,10 @@
   },
   "active": "3ed1df01101c5403",
   "lastOpenFiles": [
-    "quartz2/content/Posterior_probability.md",
+    "README.md",
+    "quartz2/content/Index.md",
     "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+    "quartz2/content/Posterior_probability.md",
     "quartz2/content/images/Nuvola_apps_edu_mathematics_blue-p.svg",
     "quartz2/content/images/Bayes_icon.svg",
     "quartz2/content/images",

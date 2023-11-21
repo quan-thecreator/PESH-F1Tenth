@@ -1,8 +1,8 @@
 That which follows tracks our progress to date
 KB: https://aquamarine-sherbet-e48c91.netlify.app/
 
-Please donate so we can compete at these competitions and so on: 
-Eth Adress 0x610Edf956fE848d4c8216CeaF861d23755497798
+Please donate so we can compete at these competitions finance our daily operations: 
+Eth Address 0x610Edf956fE848d4c8216CeaF861d23755497798
 # Meetings
 ## Meeting #1
 Action items:

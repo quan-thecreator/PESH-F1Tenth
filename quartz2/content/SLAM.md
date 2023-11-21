@@ -26,7 +26,7 @@ These papers should provide a solid foundation for understanding the principles 
 In this note, we will link to several exploratory notes into the papers above.
 
 ![[SLAM by Durrant 2006 Part  1#Notes on the Abstract]]
-
+<br>
 ![[SLAM by Durrant 2006 Part 2#Notes on the Abstract]]
-
+<br>
 ![[SLAM by M.W.M.G. Dissanayake]]

@@ -54,8 +54,13 @@ Sparing you the the drivel:
 - Correlations between landmark estimates increase *monotonically*
 - $P(m)$ progressively becomes more peaked
 - Even if a landmark $m_i$ is not observed in the current frame of sense, relative changes in position in perspective of $x_k$ propagate back to landmark $m_i$
+- A robot usually has a circular field of vision, like our car in F1Tenth
+
 
 ### Solutions
+Solutions to the probabilistic SLAM problem necessitate a hunt for an appropriate algorithmic and thorough mathematical model to facilitate the computation of the Motion, Observation, and Time-Update posterior probability density models.
+The first solution discussed in this paper is ***EKF-SLAM***, which will not be discussed here, in favor of a deeper dive in another note:
+![[EKF-SLAM#Introduction]]
 
 ## Citation
 H. Durrant-Whyte and T. Bailey, "Simultaneous localization and mapping: part I," in IEEE Robotics & Automation Magazine, vol. 13, no. 2, pp. 99-110, June 2006, doi: 10.1109/MRA.2006.1638022.

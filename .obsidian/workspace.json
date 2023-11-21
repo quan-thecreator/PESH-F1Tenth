@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ed1df01101c5403",
+            "id": "05d224461d785e80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ed1df01101c5403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz2/content/EKF-SLAM.md",
                 "mode": "source",
                 "source": true
               }
@@ -189,11 +201,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3ed1df01101c5403",
+  "active": "05d224461d785e80",
   "lastOpenFiles": [
-    "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
+    "quartz2/content/EKF-SLAM.md",
     "quartz2/content/SLAM by Durrant 2006 Part  1.md",
-    "quartz2/content/Index.md",
+    "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
     "quartz2/content/SLAM by M.W.M.G. Dissanayake.md",
     "quartz2/content/SLAM.md",
     "quartz2/public/404.html",
@@ -208,6 +220,7 @@
     "quartz2/public/Images",
     "quartz2/public/static/og-image.png",
     "quartz2/public/static/icon.png",
+    "quartz2/content/Index.md",
     "README.md",
     "quartz2/content/Posterior_probability.md",
     "quartz2/content/images/Nuvola_apps_edu_mathematics_blue-p.svg",

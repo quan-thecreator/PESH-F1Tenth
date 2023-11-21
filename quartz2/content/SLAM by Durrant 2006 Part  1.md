@@ -44,4 +44,5 @@ H. Durrant-Whyte and T. Bailey, "Simultaneous localization and mapping: part I,"
 
 # Credits
 Author of this note: Krishna Ayyalasomayajula
+
 #paper-review #SLAM #krishna #literature-review

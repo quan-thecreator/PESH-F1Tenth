@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz2/content/Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "quartz2/content/SLAM by M.W.M.G. Dissanayake.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ac93f47c136f1cd6",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz2/content/Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "quartz2/content/SLAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quartz2/content/Solution to SLAM by M.W.M.G. Dissanayake.md",
+                "file": "quartz2/content/SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz2/content/Solution to SLAM by M.W.M.G. Dissanayake.md"
+                "file": "quartz2/content/SLAM.md"
               }
             }
           }
@@ -190,8 +190,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8569b1f17b1a5c08",
+  "active": "942044d272e6e6b3",
   "lastOpenFiles": [
+    "quartz2/content/Index.md",
+    "quartz2/content/SLAM by M.W.M.G. Dissanayake.md",
+    "quartz2/public/Images/Pasted-image-20231120122338.png",
+    "quartz2/public/Images",
     "quartz2/content/SLAM.md",
     "quartz2/public/404.html",
     "quartz2/public/PDFs/simultaneous_localization_and_mapping_slam_part_ii.pdf",
@@ -201,12 +205,9 @@
     "quartz2/public/PDFs/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf",
     "quartz2/public/PDFs/Dissan.pdf",
     "quartz2/public/PDFs",
-    "quartz2/public/Images/Pasted-image-20231120122338.png",
-    "quartz2/public/Images",
     "quartz2/public/static/og-image.png",
     "quartz2/public/static/icon.png",
     "quartz2/public/static/contentIndex.json",
-    "quartz2/content/Index.md",
     "README.md",
     "quartz2/content/SLAM by Durrant 2006 Part  1.md",
     "quartz2/content/Posterior_probability.md",

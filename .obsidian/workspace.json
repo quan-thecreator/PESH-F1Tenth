@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz2/content/Index.md",
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ac93f47c136f1cd6",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz2/content/SLAM.md",
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quartz2/content/SLAM.md",
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz2/content/SLAM.md"
+                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md"
               }
             }
           }
@@ -190,8 +189,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3eadd94dd8dfcc4c",
+  "active": "3ed1df01101c5403",
   "lastOpenFiles": [
+    "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
+    "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+    "quartz2/content/Index.md",
+    "quartz2/content/SLAM by M.W.M.G. Dissanayake.md",
+    "quartz2/content/SLAM.md",
     "quartz2/public/404.html",
     "quartz2/public/PDFs/simultaneous_localization_and_mapping_slam_part_ii.pdf",
     "quartz2/public/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
@@ -204,13 +208,7 @@
     "quartz2/public/Images",
     "quartz2/public/static/og-image.png",
     "quartz2/public/static/icon.png",
-    "quartz2/public/static/contentIndex.json",
-    "quartz2/public/static",
-    "quartz2/content/Index.md",
-    "quartz2/content/SLAM by M.W.M.G. Dissanayake.md",
-    "quartz2/content/SLAM.md",
     "README.md",
-    "quartz2/content/SLAM by Durrant 2006 Part  1.md",
     "quartz2/content/Posterior_probability.md",
     "quartz2/content/images/Nuvola_apps_edu_mathematics_blue-p.svg",
     "quartz2/content/images/Bayes_icon.svg",

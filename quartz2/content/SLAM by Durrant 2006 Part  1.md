@@ -1,7 +1,7 @@
 [[Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf|text]]
 # SLAM by Durrant 2006 Part 1
 ## Notes on the Abstract
-There appear to be several reasons why this paper is a especial industry favorite as it clearly opens with the following hooks:
+There appear to be several reasons why this paper is an especial industry favorite as it clearly opens with the following hooks:
 - targets small, mobile, embedded and low power systems of the time
 - and discusses *implementation* in a ==tutorial== format
 
@@ -47,6 +47,15 @@ As seen the last two are both recursive over a new piece of information each. Le
 #### Core Concepts
 Sparing you the the drivel:
 - A large portion of error across multiple landmark observations $z_k$ is *common* to all landmarks when compared to $m$
+- This is a high *monotonous* correlation in landmark location estimates constructed using $Z$
+- Therefore, relative location is easier to discern than absolute location for all entities
+- $m_i-m_j$ may be known with high accuracy even with a uncertain $m_i$ ($i$ and $j$ not relating with previous definitions)
+- In probabilistic terms, $P(m_i,m_j)$ has a higher density than $P(m_i)$
+- Correlations between landmark estimates increase *monotonically*
+- $P(m)$ progressively becomes more peaked
+- Even if a landmark $m_i$ is not observed in the current frame of sense, relative changes in position in perspective of $x_k$ propagate back to landmark $m_i$
+
+### Solutions
 
 ## Citation
 H. Durrant-Whyte and T. Bailey, "Simultaneous localization and mapping: part I," in IEEE Robotics & Automation Magazine, vol. 13, no. 2, pp. 99-110, June 2006, doi: 10.1109/MRA.2006.1638022.

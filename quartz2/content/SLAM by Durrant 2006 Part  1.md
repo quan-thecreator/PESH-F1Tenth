@@ -29,16 +29,21 @@ The probability distribution given time $k$:
 $$
 P(x_{k},m \vert Z_{1:k},U_{1:k},x_0)
 $$
-This distribution describes the *joint* end density of the coplanar  measurements of landmark location and vehicle state (losing a dimension or two of vehicle state vector.) Since a vehicle control vector is improbable to be perfectly implemented in a real-world situation, and the change in measurements, a temporally recursive computations are desirable. 
+This distribution describes the *joint* end density of the coplanar  measurements of landmark location and vehicle state (losing a dimension or two of vehicle state vector.) Since a vehicle control vector is improbable to be perfectly implemented in a real-world situation, and the change in measurements, temporally recursive computations are desirable. 
 It is important to understand that this distribution is possible when *given* the set $U_{0:k}$, the control vectors *including* $u_{k}$.  This can be read as the probability of a random $\vec{p_k}$ taking on the desired value of $\vec{x_k}$ in *conjunction* with $i_n$ number of random vectors taking on the values in set $m$  given observations and adjustment control vectors and a initial positional state vector $x_0$. Importantly, this is a computation of the probability of *both* observing the correct landmarks *in* the map, *and* possessing the desired state $x_k$.
-In direct corollary, there exist two vital probabilistic models:
+In direct corollary, there exist four vital probabilistic models:
 
 Model | Distribution 
 -- | -- 
 Observation | $P(z_{k}\vert x_k,m)$
 Motion | $P(x_{k}\vert x_{k-1},u_k)$
-
-
+Time-update | $P(x_k,m\vert Z_{1:k-1},U_{1:k},x_{0)}=\int{P(x_k\vert x_{k-1},u_k)}*{P(x_{k-1},m\vert Z_{1:k-1},U_{1:k-1},x_0)}*dx_{k-1}$
+And finally Measurement Update:
+$$
+P(x_k,m\vert Z_{1:k},U_{1:k},x_0)
+=\frac{P(z_k\vert x_k,m)*P(x_k,m\vert Z_{1:k-1},U_{1:k},x_0)}{P(z_k\vert Z_{1:k-1},U_{1:k})}
+$$
+As seen the last two are both recursive over a new piece of information each. Leaving the math here, the author will refrain it for the rest of this paper,as the rest of the matter depends highly on model variant and implementation.  
 ## Citation
 H. Durrant-Whyte and T. Bailey, "Simultaneous localization and mapping: part I," in IEEE Robotics & Automation Magazine, vol. 13, no. 2, pp. 99-110, June 2006, doi: 10.1109/MRA.2006.1638022.
 

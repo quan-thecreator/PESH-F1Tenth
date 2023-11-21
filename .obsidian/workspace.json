@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+                "file": "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+                "file": "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz2/content/SLAM by Durrant 2006 Part  1.md"
+                "file": "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf"
               }
             }
           }
@@ -164,8 +164,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3ed1df01101c5403",
+  "active": "0cd6e2af52b3451e",
   "lastOpenFiles": [
+    "quartz2/content/SLAM by Durrant 2006 Part  1.md",
+    "quartz2/content/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
     "quartz2/public/404.html",
     "quartz2/public/PDFs/simultaneous_localization_and_mapping_slam_part_ii.pdf",
     "quartz2/public/PDFs/durrant-whyte_bailey_slam-tutorial-i.pdf",
@@ -178,9 +180,6 @@
     "quartz2/public/Images",
     "quartz2/public/static/og-image.png",
     "quartz2/public/static/icon.png",
-    "quartz2/public/static/contentIndex.json",
-    "quartz2/public/static",
-    "quartz2/content/SLAM by Durrant 2006 Part  1.md",
     "quartz2/content/Competition.md",
     "Robotic Motion.md",
     "quartz2/content/Robotic Motion.md",
